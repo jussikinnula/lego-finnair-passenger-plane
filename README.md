@@ -14,6 +14,14 @@ Please see [instructions](./A320/lego-finnair-passenger-plane-a320.pdf) how to b
 
 You can upload the [model](./A320/lego-finnair-passenger-plane-a320.io) into BrickLink [wanted list](https://www.bricklink.com/v2/wanted/list.page) to buy the bricks, and built it with real Lego bricks.
 
+## A330
+
+![Rendered Lego Finnair Passenger Plane](./A330/lego-finnair-passenger-plane-a330.png)
+
+Please see [instructions](./A330/lego-finnair-passenger-plane-a330.pdf) how to build one yourself.
+
+You can upload the [model](./A330/lego-finnair-passenger-plane-a330.io) into BrickLink [wanted list](https://www.bricklink.com/v2/wanted/list.page) to buy the bricks, and built it with real Lego bricks.
+
 ## A340
 
 ![Rendered Lego Finnair Passenger Plane](./A340/lego-finnair-passenger-plane-a340.png)
